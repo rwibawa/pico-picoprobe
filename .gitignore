@@ -1,0 +1,6 @@
+build/
+buildGPIO2/
+MSVS2017_x64/
+msys64/
+
+img/*.mp4
